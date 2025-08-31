@@ -15,9 +15,9 @@ Para ello, se han seguido los siguientes pasos:
 ### Diagrama Entidad-Relación (ER) de Chen
 Este diagrama visualiza las entidades (Studiant, Classroom, Course) y sus relaciones, mostrando la cardinalidad y los atributos.
 
-![...]()
+![...](img/img---diagrama-er-chen.png)
 
 ### Diagrama de Esquema de Base de Datos (Patas de Gallo)
 Este diagrama muestra las tablas normalizadas, sus campos y las relaciones entre ellas con la notación de "patas de gallo", que es una forma común de representar la cardinalidad.
 
-![...]()
+![...](img/img---database-schema-patasdegallo.png)
