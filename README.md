@@ -13,7 +13,7 @@ Para ello, se han seguido los siguientes pasos:
 
 ## Diagramas
 ### Diagrama Entidad-Relación (ER) de Chen
-Este diagrama visualiza las entidades (Studiant, Classroom, Course) y sus relaciones, mostrando la cardinalidad y los atributos.
+Este diagrama visualiza las entidades (`Studiant`, `Classroom`, `Course`) y sus relaciones, mostrando la cardinalidad y los atributos.
 
 ![...](img/img---diagrama-er-chen.png)
 
